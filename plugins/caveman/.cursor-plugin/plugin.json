@@ -1,0 +1,13 @@
+{
+  "name": "caveman",
+  "displayName": "Caveman",
+  "version": "1.6.0",
+  "description": "Ultra-compressed communication mode. Cuts ~75% of output tokens by speaking like caveman while keeping full technical accuracy. Includes terse commits, one-line code reviews, and memory file compression.",
+  "author": {
+    "name": "Julius Brussee",
+    "url": "https://github.com/JuliusBrussee"
+  },
+  "license": "MIT",
+  "keywords": ["caveman", "tokens", "compression", "brevity", "productivity"],
+  "logo": "assets/caveman.png"
+}

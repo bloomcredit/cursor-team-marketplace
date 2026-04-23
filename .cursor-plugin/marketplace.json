@@ -44,6 +44,11 @@
       "name": "featureflag-migration",
       "source": "featureflag-migration",
       "description": "Migrate legacy feature flag systems to OpenFeature with inventory, migration, verification, cleanup, and scaffolding"
+    },
+    {
+      "name": "caveman",
+      "source": "caveman",
+      "description": "Ultra-compressed communication mode that cuts ~75% of output tokens while keeping full technical accuracy"
     }
   ]
 }
