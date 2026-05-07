@@ -1,11 +1,11 @@
 {
-  "name": "cursor-trial-plugins",
+  "name": "bloomcredit-cursor-team-marketpace",
   "owner": {
-    "name": "Cursor Team",
-    "email": "hi@cursor.com"
+    "name": "Bloom Credit, Inc.",
+    "email": "techops@bloomcredit.io"
   },
   "metadata": {
-    "description": "A set of starter plugins for your Cursor trial.",
+    "description": "A shared repo of Cursor Plugins for Bloom Credit.",
     "version": "0.1.0",
     "pluginRoot": "plugins"
   },
